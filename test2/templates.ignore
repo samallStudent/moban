@@ -1,0 +1,5 @@
+{{#unless supportMacawAdmin}}
+build
+{{/unless}}
+
+# 最终生成的项目中不需要ignore文字自身
